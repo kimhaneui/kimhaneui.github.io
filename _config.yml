@@ -4,7 +4,7 @@ description: My Blog
 destination: korea
 url: https://kimhaneui.github.io
 baseurl: #place folder name if site is served in subfolder
-permalink: /:portfolio/
+permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
 infinite_scroll: true #change to false if you want to use pagination
@@ -49,7 +49,7 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"bun
+          label: "title"
       - name: "layout"
         field:
           element: "select"
