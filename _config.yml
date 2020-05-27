@@ -14,15 +14,8 @@ category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
-author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "kimhaneui"
-instagram: "honey1001"
-twitter: "#"
-facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+author_default_avatar: 
+
 
 encoding: utf-8
 defaults:
